@@ -1,5 +1,5 @@
 # portfolio-performance-dashboard
-monitor portfolio and trader performance via dashboard
+monitor portfolio and trader performance via Google Data Studio
 
 All data come from Rebellion Fund Trading Record (google spread sheet). The Dashboard is connected to google sheet in many taps to create different charts
 
